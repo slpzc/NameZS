@@ -27,6 +27,7 @@ const Admin = () => {
         { showComponent ?
 <AdminComponent/> : "Nothing here" }
         </>
+        )
 };
 
 export default Admin;
