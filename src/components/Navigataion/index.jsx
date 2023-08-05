@@ -58,7 +58,7 @@ const Index = () => {
                         <ul>
                             <li onClick={() => handleRoute('/projects')}>Наши проекты</li>
                             <li onClick={() => handleRoute('/about')}>О нас</li>
-                            <a target='_blank' href='https://discord.gg/tEAPhwDH5H' rel="noreferrer">Связаться</a>
+                            <a target='_blank' href='https://t.me/chekunovLimited' rel="noreferrer">Связаться</a>
                         </ul>
                     </div>
                 </div>
